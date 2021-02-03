@@ -1,0 +1,30 @@
+
+.header{
+    background-color: gray;
+    height: 8em;
+    float: top;
+    width: 1368px;
+}
+
+
+.navbar-brand{
+    border: groove;
+    border-top: none;
+    border-bottom: none;
+    padding: 20px 50px 20px;
+    border-radius: 50%;
+    font-size: 55px;
+    font-style: italic;
+    float: left;
+
+}
+
+.navbar{
+    top: 0;
+    background-color: chocolate;
+    margin: 0 auto;
+    border: groove;
+    border-right: none;
+    border-left: none;
+    overflow: hidden;
+}
